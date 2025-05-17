@@ -52,3 +52,19 @@ print(15//6)
 print(5%3)
 # exponintials
 print(5**3)
+
+
+
+# type casting
+#explicit type casting
+aa="1"
+bb="2"
+cc=int(aa)+ int(bb)
+print(cc)
+
+#implicit type casting = lower casting can be converted in higher cast exmpl below output is float
+
+v=1
+h=1.6
+print(v+h)
+
